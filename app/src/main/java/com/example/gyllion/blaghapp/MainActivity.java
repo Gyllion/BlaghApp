@@ -39,6 +39,6 @@ public class MainActivity extends ActionBarActivity {
     public void buttonOnClick(View v)
     {
         TextView myTextView = (TextView)findViewById(R.id.textView);
-        myTextView.setText("ECH!");
+        myTextView.setText("Blaguh!");
     }
 }
